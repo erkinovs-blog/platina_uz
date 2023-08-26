@@ -7,4 +7,5 @@ abstract class AppIcons {
   static const tranding = "assets/icons/ic_inactive_tranding.png";
   static const document = "assets/icons/ic_inactive_document.png";
   static const play = "assets/icons/ic_inactive_play.png";
+  static const polygon = "assets/icons/ic_polygon.png";
 }
